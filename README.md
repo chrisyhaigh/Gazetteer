@@ -1,9 +1,9 @@
-Gazetteer
-=========
+# Gazetteer
+
 
 Gazetteer is a web application that allows users to explore detailed information about countries and cities around the world. It provides key insights such as population, capital city, continent, country code, weather information, currency conversion, and latest news.
 
-Tech Stack
+#### Tech Stack
 ===
 
 HTML: Markup language for structuring web pages.
@@ -13,8 +13,7 @@ JavaScript: Programming language for adding interactivity to web pages.
 PHP: Server-side scripting language for dynamic web page generation.
 jQuery: JavaScript library for simplifying HTML document traversal and manipulation.
 
-APIs
-===
+#### API's
 
 Restcountries: Provides information about countries via a RESTful API.
 Open Exchange Rates: Provides foreign exchange rates and currency conversion.
